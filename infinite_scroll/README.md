@@ -9,4 +9,4 @@ Project using asynchronous JavaScript to fetch images from [Unplash](https://uns
 - JavaScript
 
 ## Demo
-[!scroll demo](scroll_demo.gif)
+![scroll demo](scroll_demo.gif)
