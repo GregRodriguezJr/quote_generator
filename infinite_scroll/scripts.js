@@ -52,5 +52,12 @@ async function getPhotosFromApi() {
     }
 }
 
+// Check if scrolling is near bottom of page
+window.addEventListener('scroll', () => {
+    if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 1000) {
+        console.log("load more");
+    }
+});
+
 //On Load
 getPhotosFromApi();
