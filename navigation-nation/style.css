@@ -1,12 +1,12 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 :root {
   --primaryColor: #fff;
-  --navColor1: #21292c;
-  --navColor2: #aa3e39;
-  --navColor3: #aa6e39;
-  --navColor4: #236267;
-  --navColor5: #2c8437;
+  --navColor1: #226666;
+  --navColor2: #226666;
+  --navColor3: #aa8439;
+  --navColor4: #2e4272;
+  --navColor5: #aa6c39;
 }
 
 html {
@@ -16,7 +16,7 @@ html {
 body {
   margin: 0;
   background: #000;
-
+  font-family: 'Montserrat', sans-serif;
 }
 
 /* --- Navigation Menu ------------------------------ */
@@ -74,7 +74,7 @@ section {
 }
 
 section#home {
-  background-image: url("https://images.unsplash.com/photo-1581453904507-626ddb717f14?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2089&q=80");
+  background-image: url("https://images.unsplash.com/photo-1526666923127-b2970f64b422?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80");
   background-size: cover;
   background-position: center center;
 }
