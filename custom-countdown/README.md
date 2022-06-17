@@ -1,7 +1,7 @@
 # Custom Countdown   
 
 ## Description
-Projects uses Date object to make a custom countdown that is saved in local storage.
+Project uses Date object to make a custom countdown that is saved in local storage.
 
 ## Stack
 - HTML
