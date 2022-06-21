@@ -1,5 +1,4 @@
 # Book Keeper
 
-## Description
-
 ## Demo
+![bookmark demo](img/bookmark_demo.gif)
